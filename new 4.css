@@ -215,7 +215,7 @@ width: 95%;
 
   color: #000;
 
-  border: 1px solid rgba(255, 255, 240) !important; 
+  border: 1px solid rgba(255, 255, 240, 1) !important; 
 
 }
 .fuller {
